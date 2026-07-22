@@ -1,0 +1,8 @@
+{
+  "name": "Yebnas Studio",
+  "description": "Official website for the Yebnas Studio mobile application. Professional landing page hosting app features, legal documents, and support resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

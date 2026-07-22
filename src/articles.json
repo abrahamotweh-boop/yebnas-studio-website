@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1",
+    "title": "Welcome to our New Portal",
+    "excerpt": "We have officially launched the new Yebnas Studio website to serve as the central hub for all our digital products and official documentation.",
+    "content": "Today marks a significant milestone for Yebnas Studio. We are thrilled to announce the launch of our brand new portal. This centralized platform has been designed from the ground up to provide a unified experience for our users, giving you easy access to our entire ecosystem of mobile applications, web tools, and games. \n\nOur goal with this new website is to improve discoverability and transparency. You can now explore detailed information about each of our products, read our comprehensive legal documentation, and stay up-to-date with our latest announcements. We believe this new portal will serve as a strong foundation as we continue to grow and expand our offerings.",
+    "author": "Yebnas Studio Team",
+    "date": "July 3, 2026",
+    "category": "Company News",
+    "readTime": "2 min read",
+    "imageUrl": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?q=80&w=800&auto=format&fit=crop",
+    "featured": true,
+    "popular": true
+  },
+  {
+    "id": "2",
+    "title": "Securing Your Digital Identity",
+    "excerpt": "Learn how to protect your personal information online with these advanced security practices and tools.",
+    "content": "At Yebnas Studio, your privacy is our top priority. We believe in being fully transparent about how we collect, use, and protect your data. To ensure we meet the highest standards of privacy and comply with the latest regulations, we have significantly updated our Privacy Guidelines.\n\nThese updates provide clearer explanations of our data handling practices across all our applications, including Yebnas Fitness, Studio Dashboard, and our upcoming games. We have also introduced a new Legal Center on our website where you can easily find and review all our policies. We encourage all users to take a moment to review the updated guidelines.",
+    "author": "Security Team",
+    "date": "June 20, 2026",
+    "category": "Security Tips",
+    "readTime": "4 min read",
+    "imageUrl": "https://images.unsplash.com/photo-1508345228704-935cc84bf5e2?q=80&w=800&auto=format&fit=crop",
+    "featured": false,
+    "popular": true
+  },
+  {
+    "id": "3",
+    "title": "Cosmic Run: The Making of a Neon Galaxy",
+    "excerpt": "Get a sneak peek into the development progress of our upcoming endless runner game, Cosmic Run.",
+    "content": "The development team has been hard at work on our highly anticipated game, Cosmic Run. Today, we're excited to share some behind-the-scenes progress and give you a glimpse of what's to come.\n\nWe've recently finalized the core gameplay loop and have started implementing the dynamic obstacle generation system. This system ensures that every run feels unique and challenging. Additionally, our art team has been polishing the neon-drenched environments, which look absolutely stunning. We are also collaborating with a talented artist for the synth-wave soundtrack that will perfectly complement the game's fast-paced action. Stay tuned for more updates as we get closer to our beta testing phase!",
+    "author": "Game Dev Team",
+    "date": "May 15, 2026",
+    "category": "Behind the Scenes",
+    "readTime": "5 min read",
+    "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=800&auto=format&fit=crop",
+    "featured": false,
+    "popular": false
+  },
+  {
+    "id": "4",
+    "title": "Building Dev Toolkit with React & Tailwind",
+    "excerpt": "A deep dive into the architecture and technical decisions behind our newest developer tool.",
+    "content": "We know how important it is to have reliable tools at your fingertips. That's why we've built Dev Toolkit, a comprehensive suite of utilities designed specifically for developers. We are excited to announce that Dev Toolkit is now available in Beta!\n\nThis initial release includes essential features such as a JSON formatter, a real-time RegEx tester, and various hashing utilities. The best part? All processing happens locally in your browser, ensuring your data remains private and secure. We invite you to try out the Beta and share your feedback with us. Your input will be invaluable as we continue to refine and expand the toolkit before its official launch.",
+    "author": "Engineering Team",
+    "date": "March 5, 2026",
+    "category": "Technology",
+    "readTime": "6 min read",
+    "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=800&auto=format&fit=crop",
+    "featured": false,
+    "popular": true
+  },
+  {
+    "id": "5",
+    "title": "Upcoming: Yebnas Fitness v2.0",
+    "excerpt": "We are overhauling Yebnas Fitness from the ground up. Here is what to expect in the next major update.",
+    "content": "We are overhauling Yebnas Fitness from the ground up. The next major update will include personalized workout generation based on user goals, Apple Watch and WearOS integration, and a redesigned dashboard for better visibility of daily metrics.",
+    "author": "Product Team",
+    "date": "February 12, 2026",
+    "category": "Development Updates",
+    "readTime": "3 min read",
+    "imageUrl": "https://images.unsplash.com/photo-1676302482354-9c0269fbbbc1?q=80&w=800&auto=format&fit=crop",
+    "featured": false,
+    "popular": false
+  },
+  {
+    "id": "6",
+    "title": "How to Build a Custom Workout Plan",
+    "excerpt": "A comprehensive guide on creating a balanced and effective workout routine using Yebnas Fitness.",
+    "content": "Creating a balanced and effective workout routine can be challenging. In this tutorial, we will walk you through the process of building a custom workout plan using Yebnas Fitness.",
+    "author": "Health & Wellness Team",
+    "date": "January 20, 2026",
+    "category": "Tutorials",
+    "readTime": "7 min read",
+    "imageUrl": "https://images.unsplash.com/photo-1676302482186-b485501ba160?q=80&w=800&auto=format&fit=crop",
+    "featured": false,
+    "popular": false
+  },
+  {
+    "id": "7",
+    "title": "Announcing Yebnas Analytics",
+    "excerpt": "A new platform for deep insights into your health and digital usage.",
+    "content": "We are excited to announce Yebnas Analytics, a new platform that provides deep insights into your health and digital usage. Launching later this year.",
+    "author": "Product Team",
+    "date": "January 10, 2026",
+    "category": "Product Announcements",
+    "readTime": "2 min read",
+    "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=800&auto=format&fit=crop",
+    "featured": true,
+    "popular": true
+  }
+]
